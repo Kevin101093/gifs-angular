@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "gifs",
+        "tailwindcss"
+    ],
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true,
+            "skipStyle": true
+        }
+    }
+}
